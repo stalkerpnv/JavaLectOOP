@@ -20,9 +20,6 @@ public  class Main {
         // getter setter
         Student student  = new Student("Ivan", "Ivanov", 20);
         System.out.println(student);
-        student.setAge(-10);
-        System.out.println(student);
-        System.out.println(student.getAge());
         // Скачивайте git -> устанавливаете
         // IntellijIdea -> Settings ->
         // Регистрация в github
